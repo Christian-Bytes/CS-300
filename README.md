@@ -17,4 +17,4 @@ This project taught me to start with the actual problem first instead of just pi
 **How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**  
 I started adding more simple comments so anyone can understand what each part does. I use clear variable names and break the code into small functions. These changes make the program much easier to read, fix, and reuse later.
 
-Submitted by: [Your Name]
+Submitted by: Christian
